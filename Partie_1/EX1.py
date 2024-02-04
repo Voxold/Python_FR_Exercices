@@ -1,4 +1,4 @@
-# 
+# Exercise 1 : Ecrire une phrase avec le nom et l'age d'utilisateur!
 
 Nom = input("Entrer votre nome : ")
 Age = int(input("Entrer votre age : "))
