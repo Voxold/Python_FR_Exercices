@@ -1,7 +1,6 @@
-
-# Dans cette vidéo, nous allons écrire un programme qui demande à l'utilisateur 
-# de taper la largeur et la longueur d'un rectangle et qui en affiche le périmètre
-# et la surface.
+# Nous allons écrire un programme qui demande à l'utilisateur 
+# de taper la largeur et la longueur d'un rectangle et qui 
+# en affiche le périmètre et la surface.
 
 A = int(input("Entrer LARGEUR de rectangle :"))
 B = int(input("Entrer LANGEUR de rectangle :"))
