@@ -1,5 +1,4 @@
-
-# Dans cette vidéo, nous allons écrire un programme qui demande l'année 
+# Nous allons écrire un programme qui demande l'année 
 # de naissance d'une personne,  puis il calcule et affiche l'âge de la personne. 
 
 A = int(input("Entrer votre annee de nissance : "))
