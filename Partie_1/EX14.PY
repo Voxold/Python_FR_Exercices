@@ -1,9 +1,8 @@
-
-# Dans cette vidéo, nous allons écrire le programme suivant :
-#Un magasin facture 0,30 dh les dix premières photocopies, 0,25 dh 
-#les vingt suivantes et 0,20 dh au-delà. 
-#Ecrire un programme qui demande à l’utilisateur le nombre de photocopies effectuées et 
-#qui affiche la facture correspondante.
+# Nous allons écrire le programme suivant :
+# Un magasin facture 0,30 dh les dix premières photocopies, 0,25 dh 
+# les vingt suivantes et 0,20 dh au-delà. 
+# Ecrire un programme qui demande à l’utilisateur le nombre de photocopies effectuées et 
+# qui affiche la facture correspondante.
 
 A = int(input("Entrer le nombre Ddes papies : ")) 
 
