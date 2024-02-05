@@ -1,5 +1,4 @@
-
-# Dans cette vidéo, nous allons écrire un programme qui demande l’âge d’un enfant 
+# Nous allons écrire un programme qui demande l’âge d’un enfant 
 # l’utilisateur. Ensuite, il l’informe de sa catégorie : "Poussin" de 6 à 7 ans, 
 # "Pupille" de 8 à 9 ans, "Minime" de 10 à 11 ans, "Cadet" après 12 ans.
 # 6 <= age <= 7  ==> Poussin 
