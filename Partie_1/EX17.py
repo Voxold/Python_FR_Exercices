@@ -1,4 +1,4 @@
-# Dans cette vidéo, nous allons écrire un programme qui affiche la ou les solutions 
+# Nous allons écrire un programme qui affiche la ou les solutions 
 # d’une équation du second degré de la forme ax² + bx + c = 0. 
 
 import math
