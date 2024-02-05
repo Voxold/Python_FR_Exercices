@@ -1,5 +1,4 @@
-
-# Dans cette vidéo, nous allons écrire un programme qui calcule le prix 
+# Nous allons écrire un programme qui calcule le prix 
 #TTC d’un produit connaissant son prix hors taxe et sa catégorie.
 
 P = int(input("Entrer le prix de produit : "))
