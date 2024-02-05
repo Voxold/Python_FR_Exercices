@@ -1,3 +1,5 @@
+# les jours de la semaine
+
 A = int(input("Veuillez Numero entre 1 et 7 :"))
 
 if A == 1 :
