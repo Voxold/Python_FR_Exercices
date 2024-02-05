@@ -1,11 +1,10 @@
-
-# Dans cette vidéo, nous allons écrire un programme qui demande à l’utilisateur 
-#de saisir un nombre puis qui en fonction du nombre saisi :
-#– 6 : affiche « le personnage va à droite ».
-#– 4 : affiche « le personnage va à gauche ».
-#– 8 : affiche « le personnage va en haut ».
-#– 2 : affiche « le personnage va en bas ».
-#– dans le cas d’un autre caractère, affiche : « erreur de saisie,
+# Nous allons écrire un programme qui demande à l’utilisateur 
+# de saisir un nombre puis qui en fonction du nombre saisi :
+# – 6 : affiche « le personnage va à droite ».
+# – 4 : affiche « le personnage va à gauche ».
+# – 8 : affiche « le personnage va en haut ».
+# – 2 : affiche « le personnage va en bas ».
+# – dans le cas d’un autre caractère, affiche : « erreur de saisie,
 # le personnage ne bouge pas ».
 
 N = int(input("Entrer le nombre pour donner un mission : "))
