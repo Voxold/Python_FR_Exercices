@@ -1,5 +1,5 @@
 
-# Dans cette vidéo, nous allons écrire un programme qui demande à l'utilisateur 
+# Nous allons écrire un programme qui demande à l'utilisateur 
 #de taper le rayon d’une sphère, puis calcule et affiche son volume.
 
 R = int(input("Entrer le Rayon :"))
