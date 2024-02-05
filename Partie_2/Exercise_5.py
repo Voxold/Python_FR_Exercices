@@ -1,3 +1,5 @@
+# la temperature
+
 A = int(input("Veuillez degree de la temperature de leau :"))
 
 if A < 0 :
