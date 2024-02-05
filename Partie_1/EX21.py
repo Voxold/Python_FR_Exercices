@@ -1,7 +1,6 @@
-
-# Dans cette vidéo, nous allons écrire un programme qui demande deux nombres entiers 
-#et l’une des opérateurs suivant : + , - , * , / puis effectue l’opération correspond
-#et affiche le résultat de cette opération.
+# Nous allons écrire un programme qui demande deux nombres entiers 
+# et l’une des opérateurs suivant : + , - , * , / puis effectue l’opération correspond
+# et affiche le résultat de cette opération.
 
 A = int(input("Entrer le premiere nombre : "))
 C = input("Entrer le chiffre de calcul : ")
