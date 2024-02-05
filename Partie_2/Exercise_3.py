@@ -1,3 +1,5 @@
+# Le Max
+
 NBR1 = float(input("Veuillez Entre le premier numero :"))
 NBR2 = float(input("Veuillez Entre le deuxieme numero :"))
 Max = NBR1
