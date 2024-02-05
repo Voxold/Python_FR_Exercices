@@ -1,6 +1,6 @@
-#
+# Chiffre affaire
 
-Quatite_vedus = int(input("Veuillez Entre la quantite aui vendus :"))
+Quatite_vedus = int(input("Veuillez Entre la quantite qui vendus :"))
 
 Prix_de_produit = float(input("Veuillez Entre le prix de produit :"))
 
