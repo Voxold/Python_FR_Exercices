@@ -1,9 +1,11 @@
+""" 
+Dans cette vidéo, nous allons écrire un programme qui calcule et affiche 
+la distance entre deux points A et B du plan dont les coordonnées (XA , YA) 
+et (XB , YB) sont entrées au clavier comme entiers. 
+on utilise distance AB = racing (xb-xa)2 + (yb-ya)2
+on utilise aussi math.sqrt() fonction pour racing care 
+"""
 
-# Dans cette vidéo, nous allons écrire un programme qui calcule et affiche 
-# la distance entre deux points A et B du plan dont les coordonnées (XA , YA) 
-# et (XB , YB) sont entrées au clavier comme entiers. 
-# on utilise distance AB = racing (xb-xa)2 + (yb-ya)2
-# on utilise aussi math.sqrt() fonction pour racing care
 
 import math
 
