@@ -1,7 +1,7 @@
 
-# Dans cette vidéo, nous allons écrire un programme qui demande à l’utilisateur 
-#de saisir 2 entiers A et B, qui échange le contenu des variables A et B puis 
-#qui affiche A et B
+# Nous allons écrire un programme qui demande à l’utilisateur 
+# de saisir 2 entiers A et B, qui échange le contenu des variables A et B puis 
+# qui affiche A et B
 
 A = int(input("Entrer Numro de A :"))
 B = int(input("Entrer Numro de B :"))
