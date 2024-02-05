@@ -1,5 +1,5 @@
 
-# Dans cette vidéo, nous allons écrire un programme opérations qui calcule 
+# Nous allons écrire un programme opérations qui calcule 
 # la somme, le produit, la différence et la division de deux nombre réels.
 
 A = int(input("Entre premiere numero :"))
