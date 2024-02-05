@@ -1,5 +1,5 @@
 
-# Dans cette vidéo, nous allons écrire un programme qui demande à l'utilisateur
+# Nous allons écrire un programme qui demande à l'utilisateur
 #  de taper 5 notes et qui affiche leur somme et leur moyenne.
 
 N1 = float(input("Entrer la note 1 :"))
