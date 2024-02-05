@@ -1,5 +1,4 @@
-
-# Dans cette vidéo, nous allons écrire un programme qui demande l’âge et le sexe 
+# Nous allons écrire un programme qui demande l’âge et le sexe 
 # d’un habitant et affiche si celui-ci est imposable. 
 
 # Hommes plus 20 ans ==> paient l'impot 
