@@ -1,5 +1,4 @@
-
-#Dans cette vidéo, nous allons écrire un programme qui affiche la résistance 
+# Nous allons écrire un programme qui affiche la résistance 
 # équivalente à trois résistances R1, R2, R3 :
 # - si les résistances sont branchées en série.
 # - si les résistances sont branchées en parallèle.
