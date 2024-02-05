@@ -1,7 +1,7 @@
-
-# Dans cette vidéo, nous allons écrire un programme qui demande un temps 
-#T (entier) exprimé en secondes, et qui le convertit en heures, minutes, secondes.
-#Exemple : T = 56263 seconds =15 heures 37 minutes 43 seconds.
+""" T (entier) exprimé en secondes, et qui le convertit en heures, minutes, 
+secondes.
+Exemple : T = 56263 seconds =15 heures 37 minutes 43 seconds.
+Nous allons écrire un programme qui demande un temps  """
 
 T = int(input("Entrer le temp en second : "))
 
