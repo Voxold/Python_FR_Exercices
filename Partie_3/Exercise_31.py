@@ -1,6 +1,6 @@
 # Écrire un programme Python permettant de  calculer la somme   
-#S=1+2+3+...+ N,  où N saisi par l’utilisateur.  
-#Utilisant la  boucle while.  
+# S=1+2+3+...+ N,  où N saisi par l’utilisateur.  
+# Utilisant la  boucle while.  
 
 N = int(input("Veuillez entrer un nombre : "))
 
