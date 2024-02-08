@@ -1,4 +1,3 @@
-
 # 1 + 2 + 3 + 4 + 5 ... = Somme
 
 A = int ( input ("Entrer le nombre strictement  superieur a 1 :"))
