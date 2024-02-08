@@ -1,4 +1,4 @@
-
+# Somme avec loop
 N = int(input("Veuillez un nombre : "))
 S = 0
 
