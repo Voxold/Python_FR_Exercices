@@ -1,5 +1,5 @@
 # Écrivez un programme Python, entrez deux nombres de l'utilisateur et 
-#trouvez le plus grand diviseur commun en utilisant la boucle for.
+# trouvez le plus grand diviseur commun en utilisant la boucle for.
 
 A = int(input("Entrer le nombre de A : "))
 B = int(input("Entrer le nombre de B : "))
