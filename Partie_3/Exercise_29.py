@@ -1,5 +1,5 @@
 # Écrire un programme Python qui permet  d'afficher  le message   
-#"Bonsoir"  10 fois. Utilisant la boucle while.   
+# "Bonsoir"  10 fois. Utilisant la boucle while.   
 
 print("First By boucle 'while' : ")
 
