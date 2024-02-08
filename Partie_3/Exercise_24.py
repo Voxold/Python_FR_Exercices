@@ -1,4 +1,3 @@
-
 # fornction 2
 # ax + bx + c = 0
 
