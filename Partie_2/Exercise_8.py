@@ -1,3 +1,4 @@
+# Loop avec range
 
 S=0
 for i in range(21) :
