@@ -1,4 +1,3 @@
-
 # Fonctions de signes : avec arguments | sans return
 # Fonctions de Minimal : avec arguments | avec return
 # Fonctions de Maximal : avec arguments | avec return
