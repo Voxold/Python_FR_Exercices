@@ -1,4 +1,4 @@
-#Une boutique propose à ces clients, une réduction de 15% pour 
+# Une boutique propose à ces clients, une réduction de 15% pour 
 # les montants d’achat supérieurs à 200 dh. Écrire un programme Python 
 # permettant de saisir le prix total HT et de calculer le  montant TTC 
 # en prenant en compte la réduction et la TVA=20%.  
