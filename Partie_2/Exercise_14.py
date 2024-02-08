@@ -1,3 +1,4 @@
+# La somme de la boucle nmrs
 
 S = 0 
 for i in range(1,9) :
