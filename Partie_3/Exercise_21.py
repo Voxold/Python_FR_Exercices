@@ -1,7 +1,6 @@
-
 # Écrire un programme Python qui permet d'afficher la table de 
-#multiplication d’un entier saisie par l’utilisateur, 
-#Utilisant la boucle for.  
+# multiplication d’un entier saisie par l’utilisateur, 
+# Utilisant la boucle for.  
 
 N = int(input("Veuillez entrer un nombre : "))
 
