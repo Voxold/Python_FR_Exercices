@@ -1,7 +1,7 @@
 # Écrire un programme Python permettant d’afficher le mois en lettre 
-#selon le numéro saisi au clavier.  
-#(  Si l’utilisateur tape 1 le programme affiche janvier,  
-#si 2  affiche  février , si 3 affiche mars... ).  
+# Selon le numéro saisi au clavier.  
+# (  Si l’utilisateur tape 1 le programme affiche janvier,  
+# Si 2  affiche  février , Si 3 affiche mars... ).  
 
 A = int (input ("Veuillez entrer le nombre : "))
 
