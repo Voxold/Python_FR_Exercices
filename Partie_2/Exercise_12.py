@@ -1,4 +1,4 @@
-
+# While 
 A = int ( input ("Entrer Le nombre entre 10 et 20 :"))
 
 while A < 10 or A > 20 :
