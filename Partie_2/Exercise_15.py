@@ -1,4 +1,4 @@
-
+# meme la derniere ms avec continue
 S = 0 
 for i in range(1,9) :
     print("Entrer nombre ",i," : ",end="")
