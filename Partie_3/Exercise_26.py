@@ -1,4 +1,4 @@
-#Le centre de photocopie facture 0,25 DH  pour les 10 premières 
+# Le centre de photocopie facture 0,25 DH  pour les 10 premières 
 # photocopies, 0,20 DH les vingt suivantes et 0,10 DH pour plus de vingt. 
 # Ecrire un programme Python qui demande à l’utilisateur de saisir le nombre 
 # de photocopies effectuées et qui affiche la facture correspondante. 
