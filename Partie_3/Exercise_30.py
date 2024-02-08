@@ -1,4 +1,3 @@
-
 # Écrire un programme Python permettant de calculer 
 # la somme S= 1+2+3+...+ 10. Utilisant la boucle while.  
 
